@@ -13,7 +13,7 @@
 
 ## Как запустить
 
-1. Перейдите в раздел [**Releases**](https://github.com/Pavlenko-vlad/RunnerWX/releases/tag/v0.1.0-alpha).
+1. Перейдите в раздел [**Releases**](https://github.com/Pavlenko-vlad/RunnerWX/releases/tag/v0.1.1-alpha).
 2. Скачайте архив для вашей ОС:
    - 'RunnerWX.zip' — для Windows
 3. Распакуйте архив в любую удобную папку.
